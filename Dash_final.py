@@ -6,7 +6,7 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 import pandas as pd
 
-df= pd.read_csv('C:/Users/dalfr/work/final_alt_merge.csv')
+df= pd.read_csv('./assets/final_alt_merge.csv')
 ###########################################################
 
 
